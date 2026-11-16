@@ -1,7 +1,7 @@
 {
   "name": "automated-testing-in-js",
   "version": "1.0.0",
-  "description": "Home assignments for JavaScript automated testing",
+  "description": "Defense tasks for JavaScript automated testing program in EPAM Campus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
