@@ -1,0 +1,19 @@
+{
+  "name": "automated-testing-in-js",
+  "version": "1.0.0",
+  "description": "Home assignments for JavaScript automated testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "automated-testing",
+    "unit-tests",
+    "ui-tests",
+    "api-tests"
+  ],
+  "author": "Fadime Durna",
+  "license": "ISC",
+  "private": true
+}
