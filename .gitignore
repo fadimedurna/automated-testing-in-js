@@ -16,3 +16,9 @@ playwright-report/
 # OS files
 .DS_Store
 Thumbs.db
+
+#Coverage reports during testing
+coverage/
+
+# Test reports
+mochawesome-report/
